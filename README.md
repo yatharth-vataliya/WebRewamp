@@ -48,7 +48,7 @@ After a few seconds, your project should be accessible at the address
 
 # Preview Link
 
-[https://68661b18514cb7f24a70c664--fabulous-bonbon-c6fc0a.netlify.app/](Preview Link)
+[Preview Link](https://68661b18514cb7f24a70c664--fabulous-bonbon-c6fc0a.netlify.app/)
 
 ---
 
