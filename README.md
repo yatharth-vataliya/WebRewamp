@@ -46,6 +46,12 @@ After a few seconds, your project should be accessible at the address
 
 ---
 
+# Preview Link
+
+[https://68661b18514cb7f24a70c664--fabulous-bonbon-c6fc0a.netlify.app/](Preview Link)
+
+---
+
 ## My thoughts
 
 > Honestly I didn't have much time to complete this assignment so I go to Anima to convert Figma to React and I tried 2 to 3 times to convert and able to do some good progress but when I looked in to the code then there are lots of not needed tailwind class names added so basically we can do Figma to React using AI but that is not efficient at all (may be free version of Anima is the issue but not sure) so I did little change where I can but didn't completed the entire design because of other responsibility.
